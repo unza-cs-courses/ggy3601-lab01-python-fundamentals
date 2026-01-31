@@ -1,0 +1,12 @@
+{
+  "student_id": "finaltest_lab1",
+  "variant_seed": 5105230345104280574,
+  "group_id": 4,
+  "parameters": {
+    "sample_depth": 450,
+    "sample_mass": 13.4,
+    "sample_volume": 3.7,
+    "rock_type": "Gneiss",
+    "grade_value": 3.9
+  }
+}
